@@ -30,4 +30,5 @@ public class MusicPlayerMain1 {
     isOn = false;
     System.out.println("음악 플레이어를 종료합니다.");
   }
+
 }
