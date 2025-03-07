@@ -1,5 +1,7 @@
 package oop1.ex;
 
+import java.util.HashMap;
+
 public class RectangleOopMain {
 
     public static void main(String[] args) {
@@ -15,5 +17,7 @@ public class RectangleOopMain {
 
         boolean square = rectangle.isSquare();
         System.out.println("정사각형 여부: " + square);
+
     }
+
 }
